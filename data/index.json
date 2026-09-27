@@ -253,6 +253,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-picture-of-dorian-gray",
+      "title": "The picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "The Picture of Dorian Gray is the only published novel by Oscar Wilde. It tells of a young man named Dorian Gray, the subject of a painting by artist Basil Hallward. Basil is impressed by Dorian's beauty and becomes infatuated with him, believing his beauty is responsible for a new mode in his art. Talking in Basil's garden, Dorian meets Lord Henry Wotton, a friend of Basil's, and becomes enthralled by Lord Henry's world view. Espousing a new hedonism, Lord Henry suggests the only things worth p",
+      "totalWords": 79120,
+      "totalPages": 80,
+      "totalChapters": 24
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -397,5 +406,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-27T21:41:15.550Z"
+  "updatedAt": "2026-09-27T21:47:13.431Z"
 }
