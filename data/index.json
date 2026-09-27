@@ -199,6 +199,15 @@
       "totalChapters": 37
     },
     {
+      "id": "the-chalk-man",
+      "title": "The Chalk Man",
+      "author": "C. J. Tudor",
+      "description": "\"Want to read something good?. . . If you like my stuff, you'll like this.\"--Stephen King * WINNER OF THE ITW THRILLER AWARD * WINNER OF THE STRAND MAGAZINE AWARD FOR BEST DEBUT NOVEL A riveting psychological suspense debut that weaves a mystery about a childhood game gone dangerously awry, and will keep readers guessing right up to the shocking ending In 1986, Eddie and his friends are on the verge of adolescence, spending their days biking in search of adventure. The chalk men are their secret",
+      "totalWords": 83703,
+      "totalPages": 84,
+      "totalChapters": 36
+    },
+    {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
       "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
       "author": "Edward N. Lorenz",
@@ -424,5 +433,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-27T23:11:10.737Z"
+  "updatedAt": "2026-09-27T23:14:56.246Z"
 }
