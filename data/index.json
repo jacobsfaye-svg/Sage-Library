@@ -253,6 +253,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-ocean-at-the-end-of-the-lane",
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "description": "",
+      "totalWords": 55034,
+      "totalPages": 56,
+      "totalChapters": 27
+    },
+    {
       "id": "the-picture-of-dorian-gray",
       "title": "The picture of Dorian Gray",
       "author": "Oscar Wilde",
@@ -406,5 +415,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-27T21:54:50.747Z"
+  "updatedAt": "2026-09-27T22:05:43.885Z"
 }

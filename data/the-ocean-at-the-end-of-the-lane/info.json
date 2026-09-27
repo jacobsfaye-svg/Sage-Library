@@ -1,0 +1,201 @@
+{
+  "id": "the-ocean-at-the-end-of-the-lane",
+  "title": "The Ocean at the End of the Lane",
+  "author": "Neil Gaiman",
+  "description": "",
+  "filename": "The Ocean at the End of the Lane -- Gaiman, Neil -- London, 2013 -- Headline Feature -- isbn13 9781472200334 -- 37c5bef2ab82c34104a2384617d7568f -- Anna’s Archive.epub",
+  "totalWords": 55034,
+  "totalPages": 56,
+  "totalChapters": 27,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright Page",
+      "wordCount": 148,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Table of Contents",
+      "wordCount": 56,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "About the Author",
+      "wordCount": 38,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Praise for Neil Gaiman",
+      "wordCount": 250,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Also by Neil Gaiman",
+      "wordCount": 19,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "About the Book",
+      "wordCount": 152,
+      "pageCount": 1,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "Dedication",
+      "wordCount": 6,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 8,
+      "title": "Epigraph",
+      "wordCount": 38,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 104,
+      "pageCount": 1,
+      "startPage": 9
+    },
+    {
+      "index": 10,
+      "title": "Prologue",
+      "wordCount": 1787,
+      "pageCount": 2,
+      "startPage": 10
+    },
+    {
+      "index": 11,
+      "title": "Chapter I",
+      "wordCount": 1273,
+      "pageCount": 2,
+      "startPage": 12
+    },
+    {
+      "index": 12,
+      "title": "Chapter II",
+      "wordCount": 3807,
+      "pageCount": 4,
+      "startPage": 14
+    },
+    {
+      "index": 13,
+      "title": "Chapter III",
+      "wordCount": 3114,
+      "pageCount": 4,
+      "startPage": 18
+    },
+    {
+      "index": 14,
+      "title": "Chapter IV",
+      "wordCount": 3224,
+      "pageCount": 4,
+      "startPage": 22
+    },
+    {
+      "index": 15,
+      "title": "Chapter V",
+      "wordCount": 1206,
+      "pageCount": 2,
+      "startPage": 26
+    },
+    {
+      "index": 16,
+      "title": "Chapter VI",
+      "wordCount": 4284,
+      "pageCount": 5,
+      "startPage": 28
+    },
+    {
+      "index": 17,
+      "title": "Chapter VII",
+      "wordCount": 2891,
+      "pageCount": 3,
+      "startPage": 33
+    },
+    {
+      "index": 18,
+      "title": "Chapter VIII",
+      "wordCount": 5640,
+      "pageCount": 6,
+      "startPage": 36
+    },
+    {
+      "index": 19,
+      "title": "Chapter IX",
+      "wordCount": 4922,
+      "pageCount": 5,
+      "startPage": 42
+    },
+    {
+      "index": 20,
+      "title": "Chapter X",
+      "wordCount": 4891,
+      "pageCount": 5,
+      "startPage": 47
+    },
+    {
+      "index": 21,
+      "title": "Chapter XI",
+      "wordCount": 2374,
+      "pageCount": 3,
+      "startPage": 52
+    },
+    {
+      "index": 22,
+      "title": "Chapter XII",
+      "wordCount": 3060,
+      "pageCount": 4,
+      "startPage": 55
+    },
+    {
+      "index": 23,
+      "title": "Chapter XIII",
+      "wordCount": 2952,
+      "pageCount": 3,
+      "startPage": 59
+    },
+    {
+      "index": 24,
+      "title": "Chapter XIV",
+      "wordCount": 4270,
+      "pageCount": 5,
+      "startPage": 62
+    },
+    {
+      "index": 25,
+      "title": "Chapter XV",
+      "wordCount": 1786,
+      "pageCount": 2,
+      "startPage": 67
+    },
+    {
+      "index": 26,
+      "title": "Epilogue",
+      "wordCount": 1991,
+      "pageCount": 2,
+      "startPage": 69
+    },
+    {
+      "index": 27,
+      "title": "Acknowledgements",
+      "wordCount": 751,
+      "pageCount": 1,
+      "startPage": 71
+    }
+  ]
+}
