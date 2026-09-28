@@ -136,6 +136,15 @@
       "totalChapters": 41
     },
     {
+      "id": "norwegian-wood",
+      "title": "Norwegian Wood",
+      "author": "Murakami, Haruki",
+      "description": "",
+      "totalWords": 123062,
+      "totalPages": 124,
+      "totalChapters": 25
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -433,5 +442,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-28T18:28:57.322Z"
+  "updatedAt": "2026-09-28T18:42:11.451Z"
 }
