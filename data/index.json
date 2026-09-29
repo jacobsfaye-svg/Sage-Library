@@ -307,6 +307,15 @@
       "totalChapters": 24
     },
     {
+      "id": "the-remains-of-the-day",
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "description": "",
+      "totalWords": 77132,
+      "totalPages": 78,
+      "totalChapters": 7
+    },
+    {
       "id": "the-snow-queen",
       "title": "The Snow Queen",
       "author": "Joan D. Vinge",
@@ -460,5 +469,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-29T20:03:58.851Z"
+  "updatedAt": "2026-09-29T20:10:24.856Z"
 }
