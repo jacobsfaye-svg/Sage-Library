@@ -271,6 +271,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-master-and-margarita",
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "description": "Review “A wild surrealistic romp. . . . Brilliantly flamboyant and outrageous.” —Joyce Carol Oates, The Detroit News “This dark, absurd, and subversive treasure lay hidden for many years, even after Bulgakov’s death, such was the fear of reprisal for such a pointed, authentic stab at life under the tyrannical malevolence of Uncle Joe and the withering Soviet climate of the time.” —Johnny Depp, “My Essentials” in Entertainment Weekly’s “Best of the Decade” issue (December 11, 2009) “Fine, funny, ",
+      "totalWords": 157485,
+      "totalPages": 158,
+      "totalChapters": 40
+    },
+    {
       "id": "the-ocean-at-the-end-of-the-lane",
       "title": "The Ocean at the End of the Lane",
       "author": "Neil Gaiman",
@@ -442,5 +451,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-28T19:00:23.804Z"
+  "updatedAt": "2026-09-29T19:58:21.927Z"
 }
