@@ -154,6 +154,15 @@
       "totalChapters": 25
     },
     {
+      "id": "pachinko",
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "description": "",
+      "totalWords": 166072,
+      "totalPages": 167,
+      "totalChapters": 34
+    },
+    {
       "id": "piranesi",
       "title": "Piranesi",
       "author": "Clarke, Susanna",
@@ -487,5 +496,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-29T20:59:05.245Z"
+  "updatedAt": "2026-09-29T21:03:17.234Z"
 }
