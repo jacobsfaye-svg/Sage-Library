@@ -235,6 +235,15 @@
       "totalChapters": 14
     },
     {
+      "id": "the-gathering",
+      "title": "The Gathering",
+      "author": "C. J. Tudor",
+      "description": "A detective investigating a grisly crime in rural Alaska finds herself caught up in the dark secrets and superstitions of a small town in this riveting novel from the acclaimed author of The Chalk Man . &ldquo; The Gathering is an incredibly exciting novel, tightly plotted and brilliant tense, with an atmosphere you could eat with a spoon.&rdquo;&mdash;Stuart Turton, author of The Seven Deaths of Evelyn Hardcastle In a small Alaska town, a boy is found with his throat ripped out and all the bloo",
+      "totalWords": 94533,
+      "totalPages": 95,
+      "totalChapters": 77
+    },
+    {
       "id": "the-hidden-life-of-trees",
       "title": "The Hidden Life of Trees",
       "author": "Peter Wohlleben",
@@ -469,5 +478,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-29T20:10:24.856Z"
+  "updatedAt": "2026-09-29T20:52:07.473Z"
 }
