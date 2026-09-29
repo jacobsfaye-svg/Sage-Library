@@ -1,12 +1,12 @@
 {
   "id": "piranesi",
   "title": "Piranesi",
-  "author": "Susanna Clarke",
+  "author": "Clarke, Susanna",
   "description": "",
-  "filename": "Piranesi -- Susanna Clarke; Bloomsbury Publishing -- First published in Great Britain, London ; Oxford ; New York -- Bloomsbury Publishing PLC -- 9781526622426 -- 66fe1d47e0151a81e15686763b7348aa -- Anna’s Archive.pdf",
-  "totalWords": 66613,
-  "totalPages": 67,
-  "totalChapters": 14,
+  "filename": "Piranesi -- Clarke, Susanna -- Bloomsbury USA (Trade), London, 2020 -- Bloomsbury Publishing USA -- isbn13 9781526622440 -- a70c7f9e787b0c8e1c76de7167e6dbac -- Anna’s Archive.azw3",
+  "totalWords": 61799,
+  "totalPages": 62,
+  "totalChapters": 13,
   "chapters": [
     {
       "index": 1,
@@ -95,16 +95,9 @@
     {
       "index": 13,
       "title": "Part 13",
-      "wordCount": 5000,
-      "pageCount": 5,
-      "startPage": 61
-    },
-    {
-      "index": 14,
-      "title": "Part 14",
-      "wordCount": 1613,
+      "wordCount": 1799,
       "pageCount": 2,
-      "startPage": 66
+      "startPage": 61
     }
   ]
 }

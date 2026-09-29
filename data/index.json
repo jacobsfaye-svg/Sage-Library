@@ -145,6 +145,15 @@
       "totalChapters": 25
     },
     {
+      "id": "piranesi",
+      "title": "Piranesi",
+      "author": "Clarke, Susanna",
+      "description": "",
+      "totalWords": 61799,
+      "totalPages": 62,
+      "totalChapters": 13
+    },
+    {
       "id": "pratchett-terry-discworld-16-soul-music",
       "title": "Pratchett, Terry - Discworld 16 - Soul Music",
       "author": "Pratchett, Terry",
@@ -451,5 +460,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-29T19:58:21.927Z"
+  "updatedAt": "2026-09-29T20:03:58.851Z"
 }
