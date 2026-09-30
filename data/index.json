@@ -181,15 +181,6 @@
       "totalChapters": 20
     },
     {
-      "id": "pretty-girls",
-      "title": "Pretty Girls",
-      "author": "Karin Slaughter",
-      "description": "",
-      "totalWords": 142033,
-      "totalPages": 143,
-      "totalChapters": 39
-    },
-    {
       "id": "project-hail-mary",
       "title": "Project Hail Mary",
       "author": "Andy Weir",
@@ -505,5 +496,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-09-30T19:53:08.182Z"
+  "updatedAt": "2026-09-30T20:08:43.101Z"
 }
